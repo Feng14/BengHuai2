@@ -1,0 +1,12 @@
+# Created by DisUnity v0.3.0
+v 1250.0 -1.110223E-13 500.0
+v -1250.0 1.110223E-13 -500.0
+v -1250.0 -1.110223E-13 500.0
+v 1250.0 1.110223E-13 -500.0
+
+o SceneBackGroundMask
+s 1
+usemtl SceneBackGroundMask_0
+f 1/1/1 2/2/2 3/3/3
+f 1/1/1 4/4/4 2/2/2
+

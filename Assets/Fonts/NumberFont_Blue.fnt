@@ -1,0 +1,19 @@
+info face="Î¢ÈíÑÅºÚ" size=32 bold=0 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1 outline=0
+common lineHeight=32 base=26 scaleW=256 scaleH=256 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="Number_Blue_0.png"
+chars count=15
+char id=46   x=64    y=0     width=11    height=48    xoffset=0     yoffset=0     xadvance=11    page=0  chnl=15
+char id=47   x=113   y=46    width=13    height=28    xoffset=0     yoffset=0     xadvance=13    page=0  chnl=15
+char id=48   x=28    y=49    width=30    height=43    xoffset=0     yoffset=0     xadvance=30    page=0  chnl=15
+char id=49   x=234   y=0     width=19    height=43    xoffset=0     yoffset=0     xadvance=19    page=0  chnl=15
+char id=50   x=76    y=0     width=31    height=45    xoffset=0     yoffset=0     xadvance=31    page=0  chnl=15
+char id=51   x=0     y=49    width=27    height=44    xoffset=0     yoffset=0     xadvance=27    page=0  chnl=15
+char id=52   x=168   y=0     width=33    height=44    xoffset=0     yoffset=0     xadvance=33    page=0  chnl=15
+char id=53   x=139   y=0     width=28    height=45    xoffset=0     yoffset=0     xadvance=28    page=0  chnl=15
+char id=54   x=202   y=0     width=31    height=44    xoffset=0     yoffset=0     xadvance=31    page=0  chnl=15
+char id=55   x=108   y=0     width=30    height=45    xoffset=0     yoffset=0     xadvance=30    page=0  chnl=15
+char id=56   x=0     y=0     width=31    height=48    xoffset=0     yoffset=0     xadvance=31    page=0  chnl=15
+char id=57   x=32    y=0     width=31    height=48    xoffset=0     yoffset=0     xadvance=31    page=0  chnl=15
+char id=58   x=59    y=49    width=10    height=31    xoffset=0     yoffset=0     xadvance=10    page=0  chnl=15
+char id=76   x=95    y=46    width=17    height=30    xoffset=0     yoffset=0     xadvance=17    page=0  chnl=15
+char id=86   x=70    y=49    width=24    height=30    xoffset=0     yoffset=0     xadvance=24    page=0  chnl=15

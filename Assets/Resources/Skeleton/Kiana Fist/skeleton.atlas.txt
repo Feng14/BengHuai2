@@ -1,0 +1,152 @@
+
+skeleton.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Calf_L
+  rotate: true
+  xy: 267, 72
+  size: 39, 66
+  orig: 113, 90
+  offset: 37, 12
+  index: -1
+Calf_R
+  rotate: true
+  xy: 894, 181
+  size: 39, 66
+  orig: 113, 90
+  offset: 37, 12
+  index: -1
+Fist_L
+  rotate: true
+  xy: 975, 205
+  size: 45, 47
+  orig: 45, 47
+  offset: 0, 0
+  index: -1
+Fist_R
+  rotate: false
+  xy: 835, 190
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+Hair_A
+  rotate: false
+  xy: 2, 133
+  size: 208, 117
+  orig: 208, 117
+  offset: 0, 0
+  index: -1
+Hair_B
+  rotate: false
+  xy: 164, 11
+  size: 42, 120
+  orig: 43, 120
+  offset: 1, 0
+  index: -1
+Hair_C
+  rotate: false
+  xy: 674, 182
+  size: 98, 68
+  orig: 135, 180
+  offset: 18, 18
+  index: -1
+Hair_D
+  rotate: true
+  xy: 894, 222
+  size: 28, 79
+  orig: 28, 79
+  offset: 0, 0
+  index: -1
+Hair_E
+  rotate: true
+  xy: 565, 185
+  size: 65, 107
+  orig: 65, 107
+  offset: 0, 0
+  index: -1
+Hair_F
+  rotate: true
+  xy: 2, 2
+  size: 129, 160
+  orig: 203, 180
+  offset: 28, 11
+  index: -1
+Hair_G
+  rotate: false
+  xy: 371, 138
+  size: 105, 112
+  orig: 203, 158
+  offset: 46, 22
+  index: -1
+Head
+  rotate: true
+  xy: 212, 113
+  size: 137, 157
+  orig: 203, 180
+  offset: 35, 14
+  index: -1
+Neck
+  rotate: true
+  xy: 335, 69
+  size: 42, 36
+  orig: 112, 137
+  offset: 37, 76
+  index: -1
+Shoe_L
+  rotate: false
+  xy: 208, 20
+  size: 51, 39
+  orig: 68, 68
+  offset: 8, 7
+  index: -1
+Shoe_R
+  rotate: false
+  xy: 208, 61
+  size: 57, 50
+  orig: 90, 68
+  offset: 9, 8
+  index: -1
+Shoulder
+  rotate: true
+  xy: 673, 151
+  size: 29, 38
+  orig: 68, 54
+  offset: 16, 8
+  index: -1
+Thigh_L
+  rotate: true
+  xy: 565, 150
+  size: 33, 52
+  orig: 135, 90
+  offset: 51, 19
+  index: -1
+Thigh_R
+  rotate: true
+  xy: 619, 150
+  size: 33, 52
+  orig: 135, 90
+  offset: 51, 19
+  index: -1
+Waist
+  rotate: false
+  xy: 478, 158
+  size: 85, 92
+  orig: 135, 113
+  offset: 22, 4
+  index: -1
+arm
+  rotate: true
+  xy: 713, 156
+  size: 24, 43
+  orig: 54, 68
+  offset: 15, 12
+  index: -1
+chest_3
+  rotate: false
+  xy: 774, 186
+  size: 59, 64
+  orig: 135, 72
+  offset: 36, 0
+  index: -1
